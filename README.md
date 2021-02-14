@@ -27,7 +27,7 @@ A wallet system for a product that handles multiple currencies.
 
 ### User types
 #### Noob
-- Can only have a wallet in a single currency selected at signup (main).
+- Can only have one wallet in a single currency selected at signup (main).
 - All wallet funding in a different currency should be converted to the main currency.
 - All wallet withdrawals in a different currency should be converted to the main currency before transactions are approved.
 - All wallet funding has to be approved by an administrator.
